@@ -50,3 +50,5 @@ function rollDice() {
 
 rollDice();
 resetBtn.addEventListener("click", rollDice);
+
+//겜빗 가즈아~
